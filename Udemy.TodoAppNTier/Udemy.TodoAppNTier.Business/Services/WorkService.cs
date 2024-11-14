@@ -19,6 +19,16 @@ namespace Udemy.ToDoAppNTier.Business.Services
             _uow = uow;
         }
 
+        public async Task Create(WorkCreateDto dto)
+        {
+            _uow.GetRepository<Work>().Create(new() { 
+                IsCompleted =dto.IsCompleted,   
+                Definition = dto.Definition,
+            });
+
+            await _uow.SaveChanges();
+        }
+
         public async Task<List<WorkListDto>> GetAll()
         {
             var list = await _uow.GetRepository<Work>().GetAll();

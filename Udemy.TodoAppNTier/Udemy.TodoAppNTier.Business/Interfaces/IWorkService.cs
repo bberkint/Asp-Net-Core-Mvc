@@ -10,5 +10,6 @@ namespace Udemy.ToDoAppNTier.Business.Interfaces
     public interface IWorkService
     {
         Task<List<WorkListDto>> GetAll();
+        Task Create(WorkCreateDto dto);
     }
 }
