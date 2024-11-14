@@ -1,0 +1,53 @@
+﻿@* yorum satırı *@
+
+<p>
+    @DateTime.Now <span> Şimdiki zaman paylaşıldı.</span>
+</p>
+
+
+@{
+
+    string name = "Berkin";
+    string surname = "Topaloğlu";
+    int age = 25;
+
+    string fullname = $"{name} {surname}";
+}
+
+@{
+
+    string name2 = "Sinem";
+    string surname2 = "Topaloğlu";
+    int age2 = 26;
+
+    string fullname2 = $"{name2} {surname2}";
+}
+
+
+<p>
+    fullname: @fullname
+    fullname: @fullname2
+</p>
+
+
+
+<p>
+    @{
+    
+        if (name == "a")
+        {
+           <ul>
+            <li>@name</li>
+            <li>@surname</li>
+            <li>@age</li>
+        </ul>
+         
+        }  else
+        {
+              <span> Eşleşme bulunamadı</span>
+        }
+    }
+
+</p>
+
+@(name2 + " " +surname2)

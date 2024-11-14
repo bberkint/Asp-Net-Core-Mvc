@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\views\\teacher\\addteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\views\\teacher\\addteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\views\\teacher\\addteacherusingtuple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\views\\teacher\\addteacherusingtuple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\gettingdata\\gettingdata\\views\\product\\getproductbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{199A730D-33CB-42A4-A0BD-44882F177F4C}|GettingData\\GettingData.csproj|solutionrelative:gettingdata\\views\\product\\getproductbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTeacherUsingTuple.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Teacher\\AddTeacherUsingTuple.cshtml",
+              "RelativeDocumentMoniker": "GettingData\\Views\\Teacher\\AddTeacherUsingTuple.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Teacher\\AddTeacherUsingTuple.cshtml",
+              "RelativeToolTip": "GettingData\\Views\\Teacher\\AddTeacherUsingTuple.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:21:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTeacher.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Teacher\\AddTeacher.cshtml",
+              "RelativeDocumentMoniker": "GettingData\\Views\\Teacher\\AddTeacher.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Teacher\\AddTeacher.cshtml",
+              "RelativeToolTip": "GettingData\\Views\\Teacher\\AddTeacher.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:12:25.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "GettingData\\Models\\Branch.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Models\\Branch.cs",
+              "RelativeToolTip": "GettingData\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:06:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "GettingData\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "GettingData\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:06:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProductById.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Product\\GetProductById.cshtml",
+              "RelativeDocumentMoniker": "GettingData\\Views\\Product\\GetProductById.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Views\\Product\\GetProductById.cshtml",
+              "RelativeToolTip": "GettingData\\Views\\Product\\GetProductById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:49:05.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GettingData\\Models\\Product.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\GettingData\\GettingData\\Models\\Product.cs",
+              "RelativeToolTip": "GettingData\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:39:14.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

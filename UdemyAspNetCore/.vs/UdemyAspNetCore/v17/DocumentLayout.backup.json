@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemyaspnetcore\\udemyaspnetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|solutionrelative:udemyaspnetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemyaspnetcore\\udemyaspnetcore\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|solutionrelative:udemyaspnetcore\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemyaspnetcore\\udemyaspnetcore\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57F39AD-4ACB-4D7D-B8EA-E0FE58F1B7BD}|UdemyAspNetCore\\UdemyAspNetCore.csproj|solutionrelative:udemyaspnetcore\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Startup.cs",
+              "RelativeDocumentMoniker": "UdemyAspNetCore\\Startup.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Startup.cs",
+              "RelativeToolTip": "UdemyAspNetCore\\Startup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:16:29.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Views\\Session\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyAspNetCore\\Views\\Session\\Index.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Views\\Session\\Index.cshtml",
+              "RelativeToolTip": "UdemyAspNetCore\\Views\\Session\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T16:15:00.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "UdemyAspNetCore\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\UdemyAspNetCore\\UdemyAspNetCore\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "UdemyAspNetCore\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:11:56.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

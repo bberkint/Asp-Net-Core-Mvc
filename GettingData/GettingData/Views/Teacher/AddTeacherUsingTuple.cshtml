@@ -1,0 +1,26 @@
+﻿@using GettingData.Models
+@model (List<Branch> branches, Teacher teacher)
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<h2> Tuple Kullanarak Öğretmen Ekleme Sayfası</h2>
+
+<form method="post" asp-controller="teacher" asp-action="addteacherusingtuple">
+    <div>
+        <label asp-for="teacher.FirstName">İsim</label> <br />
+        <input type="text" asp-for="teacher.FirstName" />
+    </div>
+
+    <div>
+        <label asp-for="teacher.LastName">Soyisim</label> <br />
+        <input type="text" asp-for="teacher.LastName" />
+    </div>
+
+    <div>
+        <label asp-for="teacher.BranchID">Branş</label> <br /><select asp-for="teacher" asp-items="@(new SelectList(Model.branches, "ID","BranchName"))"></select>
+    </div>
+    <div>
+        <button type="submit">Öğretmen Ekle</button>
+    </div>
+
+</form>

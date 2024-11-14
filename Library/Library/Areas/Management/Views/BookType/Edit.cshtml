@@ -1,0 +1,16 @@
+﻿@model BookType
+
+<h3 class="text-center">Kitap Türü Güncelleme Sayfası</h3>
+
+<form asp-controller="BookType" asp-action="Edit" asp-area="Management" method="post">
+    <div class="mb-3">
+        <label class="form-label" asp-for="Name">Tür İsmi</label>
+        <input type="text" class="form-control" asp-for="Name"/>
+    </div> 
+    <div class="mb-3" style="display:none;">
+        <label class="form-label" asp-for="ID">ID</label>
+        <input type="text" class="form-control" asp-for="ID" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

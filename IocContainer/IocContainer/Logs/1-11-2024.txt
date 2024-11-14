@@ -1,0 +1,2 @@
+﻿##INFO## &&11:38&& || message: index action içerisine bir istek gelmiştir.
+##INFO## &&11:40&& || message: action bazlı log talebi yapılmıştır

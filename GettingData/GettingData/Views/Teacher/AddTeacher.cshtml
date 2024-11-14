@@ -1,0 +1,34 @@
+﻿@using GettingData.Models
+@model Teacher
+
+
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<a asp-action="getstudentlist" asp-controller="student">Öğrenci Listesine Git</a>
+
+
+<h2> Öğretmen Ekleme Sayfası</h2>
+
+<form method="post" asp-action="addteacher" asp-controller="teacher">
+
+    <div>
+            
+        <label asp-for="FirstName">İsim</label> <br />
+        <input type="text" asp-for="FirstName" />
+    </div>
+
+    <div>
+        <label asp-for="LastName">Soyisim</label>
+        <input type="text" asp-for="LastName" />
+    </div>
+
+    <div>
+        <label asp-for="BranchID">Branş</label> <br />
+        <select asp-for="BranchID" asp-items="@(new SelectList(ViewBag.Branches,"ID","BranchName"))"></select>
+    </div>
+
+    <div>
+        <button type="submit">Öğretmen Ekle</button>
+    </div>
+</form>

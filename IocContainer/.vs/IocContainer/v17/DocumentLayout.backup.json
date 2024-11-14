@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\ioccontainer\\ioccontainer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|solutionrelative:ioccontainer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\ioccontainer\\ioccontainer\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|solutionrelative:ioccontainer\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\ioccontainer\\ioccontainer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|solutionrelative:ioccontainer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\ioccontainer\\ioccontainer\\services\\textlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|solutionrelative:ioccontainer\\services\\textlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\ioccontainer\\ioccontainer\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53702A2D-9C08-4868-B666-CF372A2EA36A}|IocContainer\\IocContainer.csproj|solutionrelative:ioccontainer\\services\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextLogger.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\TextLogger.cs",
+              "RelativeDocumentMoniker": "IocContainer\\Services\\TextLogger.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\TextLogger.cs",
+              "RelativeToolTip": "IocContainer\\Services\\TextLogger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:01:01.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\Interfaces\\ILog.cs",
+              "RelativeDocumentMoniker": "IocContainer\\Services\\Interfaces\\ILog.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\Interfaces\\ILog.cs",
+              "RelativeToolTip": "IocContainer\\Services\\Interfaces\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:54:46.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Startup.cs",
+              "RelativeDocumentMoniker": "IocContainer\\Startup.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Startup.cs",
+              "RelativeToolTip": "IocContainer\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:42:58.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IocContainer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IocContainer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:40:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "IocContainer\\Services\\ConsoleLogger.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\IocContainer\\IocContainer\\Services\\ConsoleLogger.cs",
+              "RelativeToolTip": "IocContainer\\Services\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:39:32.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

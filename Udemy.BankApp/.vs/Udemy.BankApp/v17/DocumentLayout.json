@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\models\\userlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\models\\userlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\models\\accountcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\models\\accountcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\mapping\\accountmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\mapping\\accountmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\mapping\\iusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\mapping\\iusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\data\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\data\\configurations\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\taghelpers\\getaccountcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\taghelpers\\getaccountcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\udemy.bankapp\\udemy.bankapp.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{46AA83D9-C647-43D0-B1F5-B980CF7B5FAC}|Udemy.BankApp.Web\\Udemy.BankApp.Web.csproj|solutionrelative:udemy.bankapp.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:54:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:31:07.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:55:43.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Interfaces\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Interfaces\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:57:28.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Startup.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Startup.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:24:23.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:26:35.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:58:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserListModel.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Models\\UserListModel.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Models\\UserListModel.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Models\\UserListModel.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Models\\UserListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:07:26.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountCreateModel.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Models\\AccountCreateModel.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Models\\AccountCreateModel.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Models\\AccountCreateModel.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Models\\AccountCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:24:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:26:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:44:06.481Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:53:56.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountMapper.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\AccountMapper.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Mapping\\AccountMapper.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\AccountMapper.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Mapping\\AccountMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:53:19.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T12:05:49.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserMapper.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\IUserMapper.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Mapping\\IUserMapper.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\IUserMapper.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Mapping\\IUserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:55:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Mapping\\UserMapper.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Mapping\\UserMapper.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Mapping\\UserMapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:49:22.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:44:19.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Entities\\Account.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Entities\\Account.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:26:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:27:37.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:06:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountConfiguration.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Configurations\\AccountConfiguration.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\Data\\Configurations\\AccountConfiguration.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\Data\\Configurations\\AccountConfiguration.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\Data\\Configurations\\AccountConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:06:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Udemy.BankApp.Web\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T12:29:39.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAccountCount.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\TagHelpers\\GetAccountCount.cs",
+              "RelativeDocumentMoniker": "Udemy.BankApp.Web\\TagHelpers\\GetAccountCount.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Udemy.BankApp\\Udemy.BankApp.Web\\TagHelpers\\GetAccountCount.cs",
+              "RelativeToolTip": "Udemy.BankApp.Web\\TagHelpers\\GetAccountCount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:35:05.01Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

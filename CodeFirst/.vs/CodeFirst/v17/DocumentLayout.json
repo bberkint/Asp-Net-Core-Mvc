@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\models\\appuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\appuserdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\codefirst\\codefirst\\migrations\\20241104073146_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30352757-4370-40E8-9B24-771DE2399EB7}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\20241104073146_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:34:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:33:58.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "CodeFirst\\Context\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:33:47.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Product.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:33:45.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Startup.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Startup.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Startup.cs",
+              "RelativeToolTip": "CodeFirst\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:33:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUserDetail.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\AppUserDetail.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\AppUserDetail.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\AppUserDetail.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\AppUserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:33:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\AppUser.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\AppUser.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:32:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241104073146_mig1.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Migrations\\20241104073146_mig1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\20241104073146_mig1.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Migrations\\20241104073146_mig1.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\20241104073146_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:31:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Order.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\CodeFirst\\CodeFirst\\Models\\Order.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:30:32.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

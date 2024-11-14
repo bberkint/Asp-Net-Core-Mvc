@@ -1,0 +1,44 @@
+﻿@model List<Customer>
+@using UdemyAspNetCore.Models
+
+
+<h3>Customer List </h3>
+<paragraph short-description="Berkin"></paragraph>
+<div class="row">
+    <div class="col-4">
+        @await Component.InvokeAsync("News")
+    </div>
+    <div class="col-8">
+        
+        <a asp-action="Create" asp-controller="Home">Create</a>
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Age</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Age</td>
+                        <td>
+                            <a asp-action="Update" asp-controller="Home" asp-route-id="@item.Id">Update</a>
+                            <a asp-action="Remove" asp-controller="Home" asp-route-id="@item.Id">Remove</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+
+
+</div>
+
+

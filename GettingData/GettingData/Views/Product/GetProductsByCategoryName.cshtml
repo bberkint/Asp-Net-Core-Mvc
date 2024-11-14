@@ -1,0 +1,15 @@
+﻿@using GettingData.Models
+@model List<Product>
+
+@if (ViewData["Error"] != null)
+{
+    <h2>@ViewData["Error"].ToString()
+    </h2>
+}
+else
+{
+    @foreach (Product item in Model)
+    {
+        <li>@item.ProductName</li>
+    }
+}
