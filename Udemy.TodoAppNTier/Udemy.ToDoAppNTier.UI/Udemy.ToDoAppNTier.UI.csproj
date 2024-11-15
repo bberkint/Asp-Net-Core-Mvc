@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Udemy.TodoAppNTier.Business\Udemy.ToDoAppNTier.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
