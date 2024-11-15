@@ -10,8 +10,8 @@ namespace Udemy.ToDoAppNTier.Business.Interfaces
     public interface IWorkService
     {
         Task<List<WorkListDto>> GetAll();
-        Task Create(WorkCreateDto dto);
-        Task<WorkListDto> GetById(object id);
+        Task Create(WorkCreateDto  dto);
+        Task<WorkListDto> GetById(int id);
         Task Remove(object id);
         Task Update(WorkUpdateDto dto);
     }

@@ -21,7 +21,7 @@ namespace Udemy.ToDoAppNTier.Business.Services
 
         public async Task Create(WorkCreateDto dto)
         {
-            _uow.GetRepository<Work>().Create(new()
+            await _uow.GetRepository<Work>().Create(new()
             {
                 IsCompleted = dto.IsCompleted,
                 Definition = dto.Definition,
@@ -51,15 +51,20 @@ namespace Udemy.ToDoAppNTier.Business.Services
             return workList;
         }
 
-        public async Task<WorkListDto> GetById(object id)
+        public async Task<WorkListDto> GetById(int id)
         {
-            var work = await _uow.GetRepository<Work>().GetById(id);
+            var work = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
 
             return new()
             {
                 Definition = work.Definition,
                 IsCompleted = work.IsCompleted,
             };
+        }
+
+        public Task<WorkListDto> GetById(object id)
+        {
+            throw new NotImplementedException();
         }
 
         public async Task Remove(object id)
