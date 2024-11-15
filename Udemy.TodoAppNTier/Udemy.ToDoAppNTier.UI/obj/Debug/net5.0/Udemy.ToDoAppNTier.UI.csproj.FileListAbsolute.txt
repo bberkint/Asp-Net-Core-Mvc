@@ -81,3 +81,4 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoA
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\AutoMapper.dll

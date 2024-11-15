@@ -16,6 +16,7 @@ namespace Udemy.ToDoAppNTier.Business.Mappings.AutoMapper
             CreateMap<Work,WorkListDto>().ReverseMap();
             CreateMap<Work,WorkCreateDto>().ReverseMap();
             CreateMap<Work, WorkUpdateDto>().ReverseMap();
+            CreateMap<WorkListDto, WorkUpdateDto>().ReverseMap();
         }
     }
 }

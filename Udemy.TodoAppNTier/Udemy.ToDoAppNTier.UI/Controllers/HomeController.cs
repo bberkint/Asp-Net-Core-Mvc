@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Udemy.ToDoAppNTier.Business.Interfaces;
+using Udemy.ToDoAppNTier.Business.Mappings.AutoMapper;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 
 namespace Udemy.ToDoAppNTier.UI.Controllers
@@ -8,10 +10,12 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
     public class HomeController : Controller
     {
         private readonly IWorkService _workService;
+        private readonly IMapper _mapper;
 
-        public HomeController(IWorkService workService)
+        public HomeController(IWorkService workService, IMapper mapper)
         {
             _workService = workService;
+            _mapper = mapper;
         }
 
         public async Task<IActionResult> Index()
@@ -44,12 +48,7 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         {
             var dto = await _workService.GetById(id);
 
-            return View(new WorkUpdateDto
-            {
-                Id = dto.Id,
-                Definition = dto.Definition,
-                IsCompleted = dto.IsCompleted,
-            });
+            return View(_mapper.Map<WorkUpdateDto>(dto));
         }
 
         [HttpPost]
