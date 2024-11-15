@@ -10,6 +10,6 @@ namespace Udemy.ToDoAppNTier.Dtos.WorkDtos
     {
         public int Id { get; set; }
         public string Definition { get; set; }
-        public int IsCompleted { get; set; }
+        public bool IsCompleted { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Udemy.TodoAppNTier.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78ff41550faa5310214059beb08867b923fcca6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80749365c4e7d2e96a62087478a9f3cb5dc97081")]
 [assembly: System.Reflection.AssemblyProductAttribute("Udemy.TodoAppNTier.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Udemy.TodoAppNTier.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
