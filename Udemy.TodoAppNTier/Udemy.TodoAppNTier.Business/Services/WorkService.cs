@@ -68,5 +68,17 @@ namespace Udemy.ToDoAppNTier.Business.Services
             _uow.GetRepository<Work>().Remove(deletedWork);
             await _uow.SaveChanges();
         }
+
+        public async Task Update(WorkUpdateDto dto)
+        {
+            _uow.GetRepository<Work>().Update(new()
+            {
+                Definition = dto.Definition,
+                Id = dto.Id,
+                IsCompleted = dto.IsCompleted,
+            });
+
+            await _uow.SaveChanges();
+        }
     }
 }
