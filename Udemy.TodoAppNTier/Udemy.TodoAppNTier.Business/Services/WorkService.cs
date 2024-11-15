@@ -67,10 +67,9 @@ namespace Udemy.ToDoAppNTier.Business.Services
             throw new NotImplementedException();
         }
 
-        public async Task Remove(object id)
+        public async Task Remove(int id)
         {
-            var deletedWork = await _uow.GetRepository<Work>().GetById(id);
-            _uow.GetRepository<Work>().Remove(deletedWork);
+            _uow.GetRepository<Work>().Remove(id);
             await _uow.SaveChanges();
         }
 

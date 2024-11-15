@@ -30,6 +30,7 @@
                         <td>@(item.IsCompleted ? "Tamamlandı" : "Tamamlanmadı")</td>
                         <td>
                             <a asp-action="Update" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-warning tbn-sm">Güncelle</a>
+                            <a asp-action="Remove" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-danger tbn-sm">Sil</a>
                         </td>
                     </tr>
                 }
