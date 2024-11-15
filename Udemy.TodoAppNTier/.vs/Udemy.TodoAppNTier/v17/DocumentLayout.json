@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.ui\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|solutionrelative:udemy.todoappntier.ui\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|solutionrelative:udemy.todoappntier.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|solutionrelative:udemy.todoappntier.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\workupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\workupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E84004B-44C3-42F2-91D3-91E15B3C88D4}|Udemy.ToDoAppNTier.UI\\Udemy.ToDoAppNTier.UI.csproj|solutionrelative:udemy.todoappntier.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76C2D96E-265B-44CC-BD2C-72E52187B4E2}|Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.dataaccess\\migrations\\20241115102315_workdtosupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C2D96E-265B-44CC-BD2C-72E52187B4E2}|Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj|solutionrelative:udemy.todoappntier.dataaccess\\migrations\\20241115102315_workdtosupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|solutionrelative:udemy.todoappntier.dtos\\workdtos\\workcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1E2E1D-6144-4C95-83AF-3012081F3ECF}|Udemy.TodoAppNTier.Dtos\\Udemy.ToDoAppNTier.Dtos.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\udemy.todoappntier\\udemy.todoappntier.dtos\\workdtos\\worklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 308,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,72 +74,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Udemy.ToDoAppNTier.UI\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Udemy.ToDoAppNTier.UI\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T12:13:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Udemy.ToDoAppNTier.UI\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Udemy.ToDoAppNTier.UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-15T10:28:04.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Udemy.ToDoAppNTier.UI\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Udemy.ToDoAppNTier.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-15T09:40:40.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Udemy.ToDoAppNTier.UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Udemy.ToDoAppNTier.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T09:38:33.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "WorkUpdateDto.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
               "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T10:17:36.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "WorkCreateDto.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
               "RelativeDocumentMoniker": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
               "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T10:07:10.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.UI\\Startup.cs",
               "RelativeDocumentMoniker": "Udemy.ToDoAppNTier.UI\\Startup.cs",
@@ -147,8 +160,7 @@
               "RelativeToolTip": "Udemy.ToDoAppNTier.UI\\Startup.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:05:58.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T09:05:58.895Z"
             },
             {
               "$type": "Document",
@@ -160,8 +172,7 @@
               "RelativeToolTip": "Udemy.TodoAppNTier.Business\\Services\\WorkService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAAAEMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:48:09.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:48:09.761Z"
             },
             {
               "$type": "Document",
@@ -173,8 +184,7 @@
               "RelativeToolTip": "Udemy.TodoAppNTier.Business\\Interfaces\\IWorkService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:47:02.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:47:02.453Z"
             },
             {
               "$type": "Document",
@@ -186,8 +196,7 @@
               "RelativeToolTip": "Udemy.TodoAppNTier.Entities\\Domains\\Work.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:46:21.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:46:21.239Z"
             },
             {
               "$type": "Document",
@@ -199,8 +208,7 @@
               "RelativeToolTip": "Udemy.TodoAppNTier.Dtos\\WorkDtos\\WorkListDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:46:02.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:46:02.254Z"
             },
             {
               "$type": "Document",
@@ -212,8 +220,7 @@
               "RelativeToolTip": "Udemy.TodoAppNTier.Business\\DependencyResolvers\\Microsoft\\DependencyExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:57:25.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T14:57:25.029Z"
             },
             {
               "$type": "Document",
@@ -231,7 +238,7 @@
         },
         {
           "DockedHeight": 115,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -240,19 +247,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241115102315_WorkDtosUpdate.cs",
-              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Migrations\\20241115102315_WorkDtosUpdate.cs",
-              "RelativeDocumentMoniker": "Udemy.TodoAppNTier.DataAccess\\Migrations\\20241115102315_WorkDtosUpdate.cs",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Migrations\\20241115102315_WorkDtosUpdate.cs",
-              "RelativeToolTip": "Udemy.TodoAppNTier.DataAccess\\Migrations\\20241115102315_WorkDtosUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T10:23:16.283Z",
-              "EditorCaption": ""
             }
           ]
         }
