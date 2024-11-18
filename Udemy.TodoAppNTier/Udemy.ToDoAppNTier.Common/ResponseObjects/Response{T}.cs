@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Udemy.ToDoAppNTier.Common.ResponseObjects
 {
-    public class Response<T> : Response
+    public class Response<T> : Response, IResponse<T>
     {
         public T Data { get; set; }
         public Response(ResponseType responseType, T data) : base(responseType)

@@ -1756,6 +1756,16 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Udemy.ToDoAppNTier.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Udemy.ToDoAppNTier.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Udemy.ToDoAppNTier.Common.dll": {}
+        }
+      },
       "Udemy.TodoAppNTier.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6072,6 +6082,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Udemy.ToDoAppNTier.Common/1.0.0": {
+      "type": "project",
+      "path": "../Udemy.ToDoAppNTier.Common/Udemy.ToDoAppNTier.Common.csproj",
+      "msbuildProject": "../Udemy.ToDoAppNTier.Common/Udemy.ToDoAppNTier.Common.csproj"
+    },
     "Udemy.TodoAppNTier.DataAccess/1.0.0": {
       "type": "project",
       "path": "../Udemy.TodoAppNTier.DataAccess/Udemy.TodoAppNTier.DataAccess.csproj",
@@ -6093,6 +6108,7 @@
       "AutoMapper >= 10.1.1",
       "FluentValidation >= 10.2.3",
       "FluentValidation.DependencyInjectionExtensions >= 10.2.3",
+      "Udemy.ToDoAppNTier.Common >= 1.0.0",
       "Udemy.ToDoAppNTier.Dtos >= 1.0.0",
       "Udemy.TodoAppNTier.DataAccess >= 1.0.0"
     ]
@@ -6130,6 +6146,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.Common\\Udemy.ToDoAppNTier.Common.csproj": {
+              "projectPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.ToDoAppNTier.Common\\Udemy.ToDoAppNTier.Common.csproj"
+            },
             "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj": {
               "projectPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj"
             },

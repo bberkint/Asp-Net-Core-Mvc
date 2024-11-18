@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Udemy.TodoAppNTier.DataAccess.UnitofWork;
 using Udemy.ToDoAppNTier.Business.Interfaces;
 using Udemy.ToDoAppNTier.Business.ValidationRules;
+using Udemy.ToDoAppNTier.Common.ResponseObjects;
 using Udemy.ToDoAppNTier.Dtos.Interfaces;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 using Udemy.ToDoAppNTier.Entities.Domains;
@@ -28,7 +29,7 @@ namespace Udemy.ToDoAppNTier.Business.Services
             this._updateDtoValidator = updateDtoValidator;
         }
 
-        public async Task Create(WorkCreateDto dto)
+        public async Task<IResponse<WorkCreateDto>> Create(WorkCreateDto dto)
         {
             var validationResult = _createDtoValidator.Validate(dto);
 
@@ -36,17 +37,39 @@ namespace Udemy.ToDoAppNTier.Business.Services
             {
                 await _uow.GetRepository<Work>().Create(_mapper.Map<Work>(dto));
                 await _uow.SaveChanges();
+                return new Response<WorkCreateDto>(ResponseType.Success,dto);
+            }
+            else
+            {
+                List<CustomValidationError> errors = new List<CustomValidationError>();
+                foreach (var error in validationResult.Errors)
+                {
+                    errors.Add(new() { 
+                        ErrorMessage = error.ErrorMessage,
+                        PropertyName = error.PropertyName,  
+                    });
+                }
+                return new Response<WorkCreateDto>(ResponseType.ValidationError, dto, errors);
             }
         }
 
-        public async Task<List<WorkListDto>> GetAll()
+        public async Task<IResponse<List<WorkListDto>>> GetAll()
         {
-            return _mapper.Map<List<WorkListDto>>(await _uow.GetRepository<Work>().GetAll());
+            var data = _mapper.Map<List<WorkListDto>>(await _uow.GetRepository<Work>().GetAll());
+
+            return new Response<List<WorkListDto>>(ResponseType.Success, data);
         }
 
-        public async Task<IDto> GetById<IDto>(int id)
+        public async Task<IResponse<IDto>> GetById<IDto>(int id)
         {
-            return _mapper.Map<IDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
+            var data = _mapper.Map<IDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
+
+            if (data == null) {
+
+                return new Response<IDto>(ResponseType.NotFound, $"{id} ye ait data bulunamadı.");
+            }
+
+            return new Response<IDto>(ResponseType.Success,data);
         }
 
         public async Task Remove(int id)
