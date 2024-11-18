@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.DataAccess.UnitofWork;
 using Udemy.ToDoAppNTier.Business.Interfaces;
+using Udemy.ToDoAppNTier.Dtos.Interfaces;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 using Udemy.ToDoAppNTier.Entities.Domains;
 
@@ -33,9 +34,9 @@ namespace Udemy.ToDoAppNTier.Business.Services
             return _mapper.Map<List<WorkListDto>>(await _uow.GetRepository<Work>().GetAll());
         }
 
-        public async Task<WorkListDto> GetById(int id)
+        public async Task<IDto> GetById<IDto>(int id)
         {
-            return _mapper.Map<WorkListDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
+            return _mapper.Map<IDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
         }
 
         public async Task Remove(int id)
