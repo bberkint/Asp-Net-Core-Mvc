@@ -8,13 +8,12 @@ using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 
 namespace Udemy.ToDoAppNTier.Business.ValidationRules
 {
-    public class WorkCreateDtoValidator : AbstractValidator<WorkCreateDto>
+    public class WorkUpdateDtoValidator :AbstractValidator<WorkUpdateDto>
     {
-        public WorkCreateDtoValidator()
+        public WorkUpdateDtoValidator()
         {
-            RuleFor(x => x.Definition).NotEmpty();
-
+            RuleFor(x=>x.Definition).NotEmpty();
+            RuleFor(x => x.Id).NotEmpty();
         }
-        
     }
 }

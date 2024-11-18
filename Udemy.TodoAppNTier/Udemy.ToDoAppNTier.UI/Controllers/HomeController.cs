@@ -30,14 +30,9 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(WorkCreateDto dto)
         {
+            await _workService.Create(dto);
 
-            if (ModelState.IsValid)
-            {
-                await _workService.Create(dto);
-                return RedirectToAction("Index");
-            }
-
-            return View(dto);
+            return RedirectToAction("Index");
         }
 
 
@@ -49,14 +44,11 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(WorkUpdateDto dto)
         {
-            if (ModelState.IsValid)
-            {
-                await _workService.Update(dto);
 
-                return RedirectToAction("Index");
-            }
+            await _workService.Update(dto);
 
-            return View(dto);
+            return RedirectToAction("Index");
+
         }
 
         public async Task<IActionResult> Remove(int id)

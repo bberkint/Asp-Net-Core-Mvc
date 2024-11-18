@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,16 +18,19 @@ namespace Udemy.ToDoAppNTier.Business.Services
     {
         private readonly IUow _uow;
         private readonly IMapper _mapper;
-        public WorkService(IUow uow, IMapper mapper)
+        private readonly IValidator<WorkCreateDto> _createDtoValidator;
+        private readonly IValidator<WorkUpdateDto> _updateDtoValidator;
+        public WorkService(IUow uow, IMapper mapper, IValidator<WorkCreateDto> createDtoValidator, IValidator<WorkUpdateDto> updateDtoValidator)
         {
             _uow = uow;
             _mapper = mapper;
+            this._createDtoValidator = createDtoValidator;
+            this._updateDtoValidator = updateDtoValidator;
         }
 
         public async Task Create(WorkCreateDto dto)
         {
-            var validator = new WorkCreateDtoValidator();
-            var validationResult = validator.Validate(dto);
+            var validationResult = _createDtoValidator.Validate(dto);
 
             if (validationResult.IsValid)
             {
@@ -53,9 +57,15 @@ namespace Udemy.ToDoAppNTier.Business.Services
 
         public async Task Update(WorkUpdateDto dto)
         {
-            _uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto));
+            var result = _updateDtoValidator.Validate(dto);
 
-            await _uow.SaveChanges();
+            if (result.IsValid)
+            {
+                _uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto));
+                await _uow.SaveChanges();
+            }
+
+
         }
     }
 }
