@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Udemy.ToDoAppNTier.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dda1f405366452bb29aa7cdb3bb949b884366e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697c009196281ea473544b8ba6cc475e9a9840a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Udemy.ToDoAppNTier.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Udemy.ToDoAppNTier.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

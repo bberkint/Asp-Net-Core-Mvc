@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wCfS3GOtHus=",
+  "dgSpecHash": "EgxrbmynpIg=",
   "success": true,
   "projectFilePath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Udemy.ToDoAppNTier.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balak\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\balak\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\balak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\balak\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\balak\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

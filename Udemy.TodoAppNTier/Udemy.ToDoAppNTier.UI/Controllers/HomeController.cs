@@ -1,8 +1,6 @@
-﻿using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Udemy.ToDoAppNTier.Business.Interfaces;
-using Udemy.ToDoAppNTier.Business.Mappings.AutoMapper;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 
 namespace Udemy.ToDoAppNTier.UI.Controllers

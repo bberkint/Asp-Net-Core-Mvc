@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.DataAccess.UnitofWork;
 using Udemy.ToDoAppNTier.Business.Interfaces;
+using Udemy.ToDoAppNTier.Business.ValidationRules;
 using Udemy.ToDoAppNTier.Dtos.Interfaces;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 using Udemy.ToDoAppNTier.Entities.Domains;
@@ -24,9 +25,14 @@ namespace Udemy.ToDoAppNTier.Business.Services
 
         public async Task Create(WorkCreateDto dto)
         {
-            await _uow.GetRepository<Work>().Create(_mapper.Map<Work>(dto));
+            var validator = new WorkCreateDtoValidator();
+            var validationResult = validator.Validate(dto);
 
-            await _uow.SaveChanges();
+            if (validationResult.IsValid)
+            {
+                await _uow.GetRepository<Work>().Create(_mapper.Map<Work>(dto));
+                await _uow.SaveChanges();
+            }
         }
 
         public async Task<List<WorkListDto>> GetAll()
