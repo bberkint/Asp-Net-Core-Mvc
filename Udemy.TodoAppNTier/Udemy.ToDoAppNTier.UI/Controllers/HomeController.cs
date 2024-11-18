@@ -36,7 +36,7 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         }
 
 
-        public async Task<IActionResult> Update(int id)
+        public async Task<IActionResult> Update(int id) 
         {
             return View(await _workService.GetById<WorkUpdateDto>(id));
         }

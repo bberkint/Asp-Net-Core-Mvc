@@ -51,8 +51,15 @@ namespace Udemy.ToDoAppNTier.Business.Services
 
         public async Task Remove(int id)
         {
-            _uow.GetRepository<Work>().Remove(id);
-            await _uow.SaveChanges();
+            var removedEntity = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
+
+            if (removedEntity != null)
+            {
+                _uow.GetRepository<Work>().Remove(removedEntity);
+                await _uow.SaveChanges();
+            }
+
+
         }
 
         public async Task Update(WorkUpdateDto dto)
@@ -61,11 +68,13 @@ namespace Udemy.ToDoAppNTier.Business.Services
 
             if (result.IsValid)
             {
-                _uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto));
-                await _uow.SaveChanges();
+                var updatedEntity = await _uow.GetRepository<Work>().Find(dto.Id);
+                if (updatedEntity != null)
+                {
+                    _uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto), updatedEntity);
+                    await _uow.SaveChanges();
+                }
             }
-
-
         }
     }
 }
