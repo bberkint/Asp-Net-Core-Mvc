@@ -8,7 +8,7 @@ namespace Udemy.ToDoAppNTier.Common.ResponseObjects
 {
     public interface IResponse<T> : IResponse
     {
-        public T Data { get; set; }
-        public List<CustomValidationError> ValidationErrors { get; set; }
+         T Data { get; set; }
+         List<CustomValidationError> ValidationErrors { get; set; }
     }
 }

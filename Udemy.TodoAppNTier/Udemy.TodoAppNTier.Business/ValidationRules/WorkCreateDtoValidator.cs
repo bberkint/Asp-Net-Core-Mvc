@@ -13,7 +13,6 @@ namespace Udemy.ToDoAppNTier.Business.ValidationRules
         public WorkCreateDtoValidator()
         {
             RuleFor(x => x.Definition).NotEmpty();
-
         }
         
     }

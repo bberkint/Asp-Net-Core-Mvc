@@ -18,3 +18,5 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoA
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\refint\Udemy.ToDoAppNTier.Business.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.ToDoAppNTier.Business.pdb
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\ref\Udemy.ToDoAppNTier.Business.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.pdb

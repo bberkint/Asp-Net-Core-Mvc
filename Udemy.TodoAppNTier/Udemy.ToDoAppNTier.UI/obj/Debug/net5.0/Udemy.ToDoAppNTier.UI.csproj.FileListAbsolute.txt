@@ -84,3 +84,5 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoA
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\AutoMapper.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\FluentValidation.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\Udemy.TodoAppNTier\Udemy.ToDoAppNTier.UI\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.pdb

@@ -11,6 +11,7 @@
           "AutoMapper": "10.1.1",
           "FluentValidation": "10.2.3",
           "FluentValidation.DependencyInjectionExtensions": "10.2.3",
+          "Udemy.ToDoAppNTier.Common": "1.0.0",
           "Udemy.ToDoAppNTier.Dtos": "1.0.0",
           "Udemy.TodoAppNTier.DataAccess": "1.0.0"
         },
@@ -1067,6 +1068,14 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "Udemy.ToDoAppNTier.Common/1.0.0": {
+        "runtime": {
+          "Udemy.ToDoAppNTier.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Udemy.TodoAppNTier.DataAccess/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.15",
@@ -1782,6 +1791,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "Udemy.ToDoAppNTier.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Udemy.TodoAppNTier.DataAccess/1.0.0": {
       "type": "project",

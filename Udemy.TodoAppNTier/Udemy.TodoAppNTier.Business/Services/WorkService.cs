@@ -2,8 +2,6 @@
 using FluentValidation;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.DataAccess.UnitofWork;
 using Udemy.ToDoAppNTier.Business.Interfaces;
@@ -37,16 +35,17 @@ namespace Udemy.ToDoAppNTier.Business.Services
             {
                 await _uow.GetRepository<Work>().Create(_mapper.Map<Work>(dto));
                 await _uow.SaveChanges();
-                return new Response<WorkCreateDto>(ResponseType.Success,dto);
+                return new Response<WorkCreateDto>(ResponseType.Success, dto);
             }
             else
             {
                 List<CustomValidationError> errors = new List<CustomValidationError>();
                 foreach (var error in validationResult.Errors)
                 {
-                    errors.Add(new() { 
+                    errors.Add(new()
+                    {
                         ErrorMessage = error.ErrorMessage,
-                        PropertyName = error.PropertyName,  
+                        PropertyName = error.PropertyName,
                     });
                 }
                 return new Response<WorkCreateDto>(ResponseType.ValidationError, dto, errors);
@@ -64,15 +63,16 @@ namespace Udemy.ToDoAppNTier.Business.Services
         {
             var data = _mapper.Map<IDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
 
-            if (data == null) {
+            if (data == null)
+            {
 
                 return new Response<IDto>(ResponseType.NotFound, $"{id} ye ait data bulunamadı.");
             }
 
-            return new Response<IDto>(ResponseType.Success,data);
+            return new Response<IDto>(ResponseType.Success, data);
         }
 
-        public async Task Remove(int id)
+        public async Task<IResponse> Remove(int id)
         {
             var removedEntity = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
 
@@ -80,12 +80,12 @@ namespace Udemy.ToDoAppNTier.Business.Services
             {
                 _uow.GetRepository<Work>().Remove(removedEntity);
                 await _uow.SaveChanges();
+                return new Response(ResponseType.Success);
             }
-
-
+            return new Response(ResponseType.NotFound, $"{id} ye ait data bulunamadı.");
         }
 
-        public async Task Update(WorkUpdateDto dto)
+        public async Task<IResponse<WorkUpdateDto>> Update(WorkUpdateDto dto)
         {
             var result = _updateDtoValidator.Validate(dto);
 
@@ -96,7 +96,22 @@ namespace Udemy.ToDoAppNTier.Business.Services
                 {
                     _uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto), updatedEntity);
                     await _uow.SaveChanges();
+                    return new Response<WorkUpdateDto>(ResponseType.Success, dto);
                 }
+                return new Response<WorkUpdateDto>(ResponseType.NotFound, $"{dto.Id} ye ait data bulunamadı.");
+            }
+            else
+            {
+                List<CustomValidationError> errors = new List<CustomValidationError>();
+                foreach (var error in result.Errors)
+                {
+                    errors.Add(new()
+                    {
+                        ErrorMessage = error.ErrorMessage,
+                        PropertyName = error.PropertyName,
+                    });
+                }
+                return new Response<WorkUpdateDto>(ResponseType.ValidationError, dto, errors);
             }
         }
     }
