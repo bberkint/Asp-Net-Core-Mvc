@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <!-- CSS Bağlantısı -->
+    <link rel="stylesheet" href="~/css/style.css">
+
+
+</head>
+<body>
+
+    <form asp-action="Index" asp-controller="MainPage" method="post">
+        <table border="1" style="border-collapse: collapse; float: right; margin-right: 150px;">
+            <thead>
+                <tr>
+                    <th style="padding: 10px; text-align:center;">Durum</th>
+                    <th style="padding: 10px; text-align:center;">Renk Seçimi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr id="bos">
+                    <td style="padding: 10px;">Boş</td>
+                    <td style="padding: 10px;"><input type="color" id="empty-123"/> </td>
+                </tr>
+                <tr id="dolu">
+                    <td style="padding: 10px;">Dolu</td>
+                    <td style="padding: 10px;"><input type="color" id="full-123"/> </td>
+                </tr>
+                <tr id="arizali">
+                    <td style="padding: 10px;">Arızalı</td>
+                    <td style="padding: 10px;"><input type="color" id="broken-123"/> </td>
+                </tr>
+                <tr id="kirli">
+                    <td style="padding: 10px;">Kirli</td>
+                    <td style="padding: 10px;"><input type="color" id="dirty-123"/> </td>
+                </tr>
+                <tr id="rezerve">
+                    <td style="padding: 10px;">Rezerve</td>
+                    <td style="padding: 10px;"><input type="color" id="reserved-123"/> </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+
+    <div class="circle empty">Boş</div>
+    <div class="circle full">Dolu</div>
+    <div class="circle broken">Arızalı</div>
+    <div class="circle dirty">Kirli</div>
+    <div class="circle reserved">Rezerve</div>
+
+    <script src="~/js/demo.js"></script>
+</body>
+</html>

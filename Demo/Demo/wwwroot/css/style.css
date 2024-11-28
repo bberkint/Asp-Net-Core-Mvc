@@ -1,0 +1,54 @@
+﻿
+th, td {
+    border-color: #96D4D4;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.empty {
+    background: var(--red);
+}
+
+.full {
+    background: var(--blue);
+}
+
+.broken {
+    background: var(--green);
+}
+
+.dirty {
+    background: var(--yellow);
+}
+
+.reserved {
+    background: var(--pink);
+}
+
+/*---------------------------------------------------*/
+
+/*#empty-1 {
+    background: var(--red);
+}
+
+#full-1 {
+    background: var(--blue);
+}
+#broken-1 {
+    background: var(--green);
+}
+#dirty-1 {
+    background: var(--yellow);
+}
+#reserved-1 {
+    background: var(--pink);
+}
+*/

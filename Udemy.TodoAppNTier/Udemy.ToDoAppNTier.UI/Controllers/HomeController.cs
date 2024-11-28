@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Udemy.ToDoAppNTier.Business.Interfaces;
+using Udemy.ToDoAppNTier.Common.ResponseObjects;
 using Udemy.ToDoAppNTier.Dtos.WorkDtos;
 
 namespace Udemy.ToDoAppNTier.UI.Controllers
@@ -32,7 +33,20 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         {
             var response = await _workService.Create(dto);
 
-            return RedirectToAction("Index");
+            if (response.ResponseType == ResponseType.ValidationError)
+            {
+                foreach (var error in response.ValidationErrors)
+                {
+                    ModelState.AddModelError(error.PropertyName, error.ErrorMessage);
+                }
+                return View(dto);
+
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+
         }
 
 
@@ -40,14 +54,21 @@ namespace Udemy.ToDoAppNTier.UI.Controllers
         {
             var response = await _workService.GetById<WorkUpdateDto>(id);
 
+            if (response.ResponseType == ResponseType.NotFound)
+            {
+                return NotFound();
+            }
             return View(response.Data);
         }
 
         [HttpPost]
         public async Task<IActionResult> Update(WorkUpdateDto dto)
         {
-
             var response = await _workService.Update(dto);
+
+            if (response.ResponseType == ResponseType.ValidationError) { 
+            
+            }
 
             return RedirectToAction("Index");
 
