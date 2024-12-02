@@ -1,0 +1,23 @@
+﻿@model List<Person>
+@{
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Eklenen Kişiler Listesi</h1>
+    <ul>
+        @foreach (var person in Model)
+        {
+            <li>@person.Name @person.Surname</li>
+        }
+    </ul>
+
+    <a href="/MainPage/Index">Add Another Person</a>
+
+</body>
+</html>

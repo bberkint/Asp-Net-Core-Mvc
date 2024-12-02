@@ -1,0 +1,30 @@
+﻿@model Demo.Models.User
+@{
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+
+    <h1>Login Page</h1>
+
+    <form asp-controller="Login" asp-action="Create" method="post">
+        <div>
+            <label asp-for="userName">User Name</label>
+            <input asp-for="userName" type="text" />
+        </div>
+
+        <div>
+            <label asp-for="password">Password</label>
+            <input asp-for="password" type="password" />
+        </div>
+        <div>
+            <button type="submit">Log In</button>   
+        </div>
+    </form>
+
+</body>
+</html>

@@ -1,5 +1,4 @@
 ﻿
-
 function setColours() {
     if (!localStorage.getItem('cssColours')) {
         const colours = {
@@ -10,7 +9,7 @@ function setColours() {
             '--pink': '#ff00dc'
         };
 
-        localStorage.setItem('cssColours', JSON.stringify(colours)); 
+        localStorage.setItem('cssColours', JSON.stringify(colours));
     }
     let storedColours = JSON.parse(localStorage.getItem('cssColours'));
 
@@ -20,67 +19,28 @@ function setColours() {
 }
 setColours();
 
-document.getElementById('empty-123').addEventListener('input', function () {
-    const selectedValue = this.value;
 
-    let storedColours = JSON.parse(localStorage.getItem('cssColours'));
+function updateColour(inputId, colorKey) { // Şimdi burada sürekli güncellenen kısımlara bakmam lazım. html tag ı nın id' sine göre tetiklenen rengin değeri güncelleniyo
 
-    storedColours['--red'] = selectedValue;
+    document.getElementById(inputId).addEventListener('input', function () {
 
-    localStorage.setItem('cssColours', JSON.stringify(storedColours));
+        const selectedValue = this.value;
 
-    setColours();
-});
+        let storedColours = JSON.parse(localStorage.getItem('cssColours'));
 
+        storedColours[colorKey] = selectedValue;
 
-document.getElementById('full-123').addEventListener('input', function () {
-    const selectedValue = this.value;
+        localStorage.setItem('cssColours', JSON.stringify(storedColours));
 
-    let storedColours = JSON.parse(localStorage.getItem('cssColours'));
+        setColours();
+    });
+}
 
-    storedColours['--blue'] = selectedValue;
-
-    localStorage.setItem('cssColours', JSON.stringify(storedColours));
-
-    setColours();
-});
-
-document.getElementById('broken-123').addEventListener('input', function () {
-    const selectedValue = this.value;
-
-    let storedColours = JSON.parse(localStorage.getItem('cssColours'));
-
-    storedColours['--green'] = selectedValue;
-
-    localStorage.setItem('cssColours', JSON.stringify(storedColours));
-
-    setColours();
-});
-
-document.getElementById('dirty-123').addEventListener('input', function () {
-    const selectedValue = this.value;
-
-    let storedColours = JSON.parse(localStorage.getItem('cssColours'));
-
-    storedColours['--yellow'] = selectedValue;
-
-    localStorage.setItem('cssColours', JSON.stringify(storedColours));
-
-    setColours();
-});
-
-document.getElementById('reserved-123').addEventListener('input', function () {
-
-    const selectedValue = this.value;
-
-    let storedColours = JSON.parse(localStorage.getItem('cssColours'));
-
-    storedColours['--pink'] = selectedValue;
-
-    localStorage.setItem('cssColours', JSON.stringify(storedColours));
-
-    setColours();
-});
+updateColour('emptyId', '--red');
+updateColour('fullId', '--blue');
+updateColour('brokenId', '--green');
+updateColour('dirtyId', '--yellow');
+updateColour('reservedId', '--pink');
 
 // Colorpicker' ın default olarak renklerinin gelmesi 
 function setDefaultColor(inputId, colorKey) {
@@ -97,8 +57,8 @@ function setDefaultColor(inputId, colorKey) {
     }
 }
 
-setDefaultColor('empty-123', '--red');
-setDefaultColor('full-123', '--blue');
-setDefaultColor('broken-123', '--green');
-setDefaultColor('dirty-123', '--yellow');
-setDefaultColor('reserved-123', '--pink');
+setDefaultColor('emptyId', '--red');
+setDefaultColor('fullId', '--blue');
+setDefaultColor('brokenId', '--green');
+setDefaultColor('dirtyId', '--yellow');
+setDefaultColor('reservedId', '--pink'); 
