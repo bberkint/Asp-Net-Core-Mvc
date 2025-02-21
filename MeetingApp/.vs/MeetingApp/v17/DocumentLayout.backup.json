@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\meetingapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\meetingapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|solutionrelative:models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|solutionrelative:views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\meetingapp\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5949E19F-3A1D-456C-B606-B432611C5F28}|MeetingApp.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 568,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T21:10:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-04T21:10:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T21:02:44.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:55:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Models\\UserInfo.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:55:08.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

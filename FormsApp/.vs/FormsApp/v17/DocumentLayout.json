@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\views\\home\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:views\\home\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\formsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA0B388-7841-42FE-8531-F88FA5C67D44}|FormsApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 510,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DeleteConfirm.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Views\\Home\\DeleteConfirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T17:59:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:00:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T20:27:35.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:03:07.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T19:12:11.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T19:41:44.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\FormsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAwwKIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:41:00.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

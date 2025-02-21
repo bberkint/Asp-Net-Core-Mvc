@@ -12,25 +12,25 @@ namespace Demo.Controllers
     {
         public IActionResult Index()
         {
-            var session = HttpContext.Session.GetString("ColourSession");
-            Console.WriteLine("1.adım");
-            if (string.IsNullOrEmpty(session))
-            {
-                List<Colour> colours = new List<Colour>
-                {
-                    new Colour { ColorID = 0, ColorName = "--red", ColorValue = "#fb0808" },
-                    new Colour { ColorID = 1, ColorName = "--blue", ColorValue = "#097bf1" },
-                    new Colour { ColorID = 2, ColorName = "--green", ColorValue = "#37f608" },
-                    new Colour { ColorID = 3, ColorName = "--yellow", ColorValue = "#ffd800" },
-                    new Colour { ColorID = 4, ColorName = "--pink", ColorValue = "#ff00dc" }
-                };
-                Console.WriteLine("2.adım");
+            //var session = HttpContext.Session.GetString("ColourSession");
+            //Console.WriteLine("1.adım");
+            //if (string.IsNullOrEmpty(session))
+            //{
+            //    List<Colour> colours = new List<Colour>
+            //    {
+            //        new Colour { ColorID = 0, ColorName = "--red", ColorValue = "#fb0808" },
+            //        new Colour { ColorID = 1, ColorName = "--blue", ColorValue = "#097bf1" },
+            //        new Colour { ColorID = 2, ColorName = "--green", ColorValue = "#37f608" },
+            //        new Colour { ColorID = 3, ColorName = "--yellow", ColorValue = "#ffd800" },
+            //        new Colour { ColorID = 4, ColorName = "--pink", ColorValue = "#ff00dc" }
+            //    };
+            //    Console.WriteLine("2.adım");
 
-                HttpContext.Session.SetString("ColourSession", JsonConvert.SerializeObject(colours));
-            }
+            //    HttpContext.Session.SetString("ColourSession", JsonConvert.SerializeObject(colours));
+            //}
 
-            var colorList = HttpContext.Session.GetString("ColourSession");
-            return View(JsonConvert.DeserializeObject<List<Colour>>(colorList)); 
+            //var colorList = HttpContext.Session.GetString("ColourSession");
+            return View();
         }
 
 
@@ -53,8 +53,7 @@ namespace Demo.Controllers
         [HttpPost]
         public IActionResult Index(Colour colour)
         {
-            //{ colorname: '--red', colorvalue: '#600600'}
-
+            
 
             return View();
         }

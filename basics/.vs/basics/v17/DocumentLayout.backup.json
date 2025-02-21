@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\basics\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F787B8-22FB-4F53-8D80-019B16FD0FF2}|basics.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 397,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T21:58:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Course.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\_Course.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\_Course.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\_Course.cshtml",
+              "RelativeToolTip": "Views\\Course\\_Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T21:55:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:36:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T21:36:01.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\List.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Views\\Course\\List.cshtml",
+              "RelativeToolTip": "Views\\Course\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T21:34:43.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:28:08.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:50:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\basics\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:48:06.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
