@@ -1,10 +1,12 @@
 ﻿@model Ogrenci
 
+<h2>Öğrenci Ekle</h2>
+<hr>
 <form asp-controller="Ogrenci" asp-action="Create" method="post">
 
     <div class="mb-3">
         <label asp-for="OgrenciAd" class="form-label">Öğrenci Ad</label>
-        <input asp-for="OgrenciAd" class="form-control"/>
+        <input asp-for="OgrenciAd" class="form-control" />
     </div>
 
     <div class="mb-3">
