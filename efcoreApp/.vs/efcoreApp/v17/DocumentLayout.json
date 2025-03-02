@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\data\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:data\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{598ED95A-E932-4BC0-B728-0DD55AD7825F}|efcoreApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\efcoreapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,12 +53,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 386,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 518,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -80,52 +80,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Ogrenci\\Index.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Index.cshtml",
               "RelativeToolTip": "Views\\Ogrenci\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T20:15:39.67Z",
+              "WhenOpened": "2025-03-02T20:55:40.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ogrenci\\Edit.cshtml",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ogrenci\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T12:44:38.19Z",
+              "WhenOpened": "2025-03-02T20:53:29.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Ogrenci\\Create.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Create.cshtml",
               "RelativeToolTip": "Views\\Ogrenci\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-02T12:44:22.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "OgrenciController.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Controllers\\OgrenciController.cs",
               "RelativeDocumentMoniker": "Controllers\\OgrenciController.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Controllers\\OgrenciController.cs",
               "RelativeToolTip": "Controllers\\OgrenciController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:43:25.804Z",
               "EditorCaption": ""
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
@@ -164,8 +164,7 @@
               "RelativeToolTip": "Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:10:54.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T21:10:54.46Z"
             },
             {
               "$type": "Document",
@@ -193,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Ogrenci.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Data\\Ogrenci.cs",
               "RelativeDocumentMoniker": "Data\\Ogrenci.cs",
@@ -201,13 +200,12 @@
               "RelativeToolTip": "Data\\Ogrenci.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:17:00.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T19:17:00.713Z"
             }
           ]
         },
         {
-          "DockedHeight": 276,
+          "DockedHeight": 145,
           "SelectedChildIndex": -1,
           "Children": [
             {
