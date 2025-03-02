@@ -63,3 +63,7 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\run
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\obj\Debug\net7.0\efcoreApp.csproj.AssemblyReference.cache
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\obj\Debug\net7.0\efcoreApp.csproj.Up2Date
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Humanizer.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\System.CodeDom.dll
