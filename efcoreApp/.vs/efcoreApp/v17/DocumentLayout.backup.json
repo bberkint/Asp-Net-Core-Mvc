@@ -53,7 +53,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 518,
+          "DockedHeight": 395,
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -67,8 +67,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T16:51:10.642Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Views\\Ogrenci\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T20:55:40.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T20:55:40.332Z"
             },
             {
               "$type": "Document",
@@ -99,7 +97,7 @@
               "RelativeDocumentMoniker": "Views\\Ogrenci\\Edit.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Views\\Ogrenci\\Edit.cshtml",
               "RelativeToolTip": "Views\\Ogrenci\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-02T20:53:29.577Z",
               "EditorCaption": ""
@@ -114,8 +112,7 @@
               "RelativeToolTip": "Views\\Ogrenci\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T12:44:22.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T12:44:22.069Z"
             },
             {
               "$type": "Document",
@@ -125,7 +122,7 @@
               "RelativeDocumentMoniker": "Controllers\\OgrenciController.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\efcoreApp\\Controllers\\OgrenciController.cs",
               "RelativeToolTip": "Controllers\\OgrenciController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswD4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:43:25.804Z",
               "EditorCaption": ""
@@ -205,7 +202,7 @@
           ]
         },
         {
-          "DockedHeight": 145,
+          "DockedHeight": 268,
           "SelectedChildIndex": -1,
           "Children": [
             {

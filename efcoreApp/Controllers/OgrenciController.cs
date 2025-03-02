@@ -41,7 +41,7 @@ namespace efcoreApp.Controllers
                 return NotFound();
             }
 
-           // var ogr = await _context.Ogrenciler.FindAsync(id);
+            // var ogr = await _context.Ogrenciler.FindAsync(id);
             var ogr = await _context.Ogrenciler.FirstOrDefaultAsync(ogrenci => ogrenci.OgrenciId == id);
 
             if (ogr == null)
@@ -50,6 +50,41 @@ namespace efcoreApp.Controllers
             }
 
             return View(ogr);
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, Ogrenci model)
+        {
+
+            if (id != model.OgrenciId)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(model);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!_context.Ogrenciler.Any(o => o.OgrenciId == model.OgrenciId))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction("Index");
+            }
+
+            return View(model);
         }
     }
 }
