@@ -1,5 +1,6 @@
 ﻿using efcoreApp.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace efcoreApp.Controllers
 {
@@ -10,9 +11,11 @@ namespace efcoreApp.Controllers
         {
             _context = context; 
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var kurslar = await _context.Kurslar.ToListAsync();
+
+            return View(kurslar);
         }
 
         public IActionResult Create()
