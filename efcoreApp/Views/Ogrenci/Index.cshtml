@@ -15,21 +15,21 @@
     <tbody>
         @foreach (var item in Model)
         {
-                <tr>
-                    <td>
+            <tr>
+                <td>
                     @Html.DisplayFor(modelItem => item.OgrenciId)
-                    </td>
-                    <td>
+                </td>
+                <td>
                     @Html.DisplayFor(modelItem => item.OgrenciAd)
-                    </td>
-                    <td>
+                </td>
+                <td>
                     @Html.DisplayFor(modelItem => item.OgrenciSoyad)
-                    </td>
-                    <td>
-                        <a class="btn btn-sm btn-primary" asp-controller="Ogrenci" asp-action="Edit" asp-route-id="@item.OgrenciId">Güncelle</a>
-                        <a class="btn btn-sm btn-danger" href="#">Sil</a>
-                    </td>
-                </tr>
+                </td>
+                <td>
+                    <a class="btn btn-sm btn-primary" asp-controller="Ogrenci" asp-action="Edit" asp-route-id="@item.OgrenciId">Güncelle</a>
+                    <a class="btn btn-sm btn-danger" asp-controller="Ogrenci" asp-action="Delete" asp-route-id="@item.OgrenciId">Sil</a>
+                </td>
+            </tr>
         }
 
     </tbody>

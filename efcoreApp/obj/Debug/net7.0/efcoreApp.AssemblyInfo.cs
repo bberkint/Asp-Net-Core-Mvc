@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("efcoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611d12fa12801d0e7b8969edb481e2afcb0650f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1057d7f72dc9a5f13001bd823f7adea045708c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("efcoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("efcoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
