@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using efcoreApp.Data;
 
@@ -10,9 +11,11 @@ using efcoreApp.Data;
 namespace efcoreApp.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20250303195209_CreateKursKayitlariTable")]
+    partial class CreateKursKayitlariTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.8");
@@ -48,6 +51,10 @@ namespace efcoreApp.Migrations
 
                     b.HasKey("KayitId");
 
+                    b.HasIndex("KursId");
+
+                    b.HasIndex("OgrenciId");
+
                     b.ToTable("KursKayitlari");
                 });
 
@@ -72,6 +79,25 @@ namespace efcoreApp.Migrations
                     b.HasKey("OgrenciId");
 
                     b.ToTable("Ogrenciler");
+                });
+
+            modelBuilder.Entity("efcoreApp.Data.KursKayit", b =>
+                {
+                    b.HasOne("efcoreApp.Data.Kurs", "Kurs")
+                        .WithMany()
+                        .HasForeignKey("KursId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("efcoreApp.Data.Ogrenci", "Ogrenci")
+                        .WithMany()
+                        .HasForeignKey("OgrenciId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Kurs");
+
+                    b.Navigation("Ogrenci");
                 });
 #pragma warning restore 612, 618
         }
