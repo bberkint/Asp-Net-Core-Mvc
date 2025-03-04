@@ -7,6 +7,7 @@
 <div class="row">
     <div class="col-8">
         <form asp-controller="Kurs" asp-action="Edit" method="post">
+            <div asp-validation-summary="All"></div>
             <input type="hidden" asp-for="KursId" />
             <div class="mb-3">
                 <label asp-for="Baslik" class="form-label">Kurs Başlığı</label>
@@ -31,7 +32,7 @@
             {
                 <li>@item.Ogrenci.AdSoyad</li>
             }
-            
+
         </ul>
     </div>
 </div>
