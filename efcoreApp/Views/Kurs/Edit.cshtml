@@ -1,4 +1,5 @@
-﻿@model Kurs
+﻿@model efcoreApp.Models.KursViewModel
+
 
 <h2>Kurs Güncelle</h2>
 <hr>
@@ -11,6 +12,14 @@
                 <label asp-for="Baslik" class="form-label">Kurs Başlığı</label>
                 <input asp-for="Baslik" class="form-control" />
             </div>
+
+            <div class="mb-3">
+                <label asp-for="OgretmenId">Öğretmen</label>
+                <select asp-for="OgretmenId" asp-items="ViewBag.Ogretmenler" class="form-select">
+                    <option value="">Seçiniz</option>
+                </select>
+            </div>
+
             <button type="submit" class="btn btn-secondary">Kaydet</button>
         </form>
     </div>
@@ -18,7 +27,7 @@
         <h4>Öğrenciler</h4>
         <hr>
         <ul>
-            @foreach (var item in Model.KursKayitlari)
+            @foreach (var item in @Model.KursKayitlari)
             {
                 <li>@item.Ogrenci.AdSoyad</li>
             }
