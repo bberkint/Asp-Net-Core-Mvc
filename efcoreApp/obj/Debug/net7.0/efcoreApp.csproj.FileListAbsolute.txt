@@ -67,3 +67,7 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Hum
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\bin\Debug\net7.0\efcoreApp.staticwebassets.endpoints.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\obj\Debug\net7.0\staticwebassets\msbuild.efcoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\efcoreApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
