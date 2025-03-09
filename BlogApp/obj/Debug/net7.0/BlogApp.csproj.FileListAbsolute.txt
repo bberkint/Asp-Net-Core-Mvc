@@ -68,3 +68,5 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\Syste
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\BlogApp.RazorAssemblyInfo.cache
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\BlogApp.RazorAssemblyInfo.cs
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\libman.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\BlogApp.staticwebassets.runtime.json
