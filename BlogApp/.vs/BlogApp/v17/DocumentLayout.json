@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\concrete\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:data\\concrete\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\abstraction\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:data\\abstraction\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\entity\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,8 +45,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 368,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 395,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,72 +58,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:21:07.664Z",
+              "DocumentIndex": 1,
+              "Title": "EfPostRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\EfPostRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Concrete\\EfCore\\EfPostRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\EfPostRepository.cs",
+              "RelativeToolTip": "Data\\Concrete\\EfCore\\EfPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:33:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Abstraction\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Abstraction\\IPostRepository.cs",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Abstraction\\IPostRepository.cs",
+              "RelativeToolTip": "Data\\Abstraction\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:30:19.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
-              "RelativeToolTip": "Views\\Posts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:10:39.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs",
               "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T22:09:18.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\SeedData.cs",
-              "RelativeDocumentMoniker": "Data\\Concrete\\EfCore\\SeedData.cs",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\SeedData.cs",
-              "RelativeToolTip": "Data\\Concrete\\EfCore\\SeedData.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T22:59:29.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T22:25:50.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\BlogContext.cs",
               "RelativeDocumentMoniker": "Data\\Concrete\\EfCore\\BlogContext.cs",
@@ -147,12 +130,11 @@
               "RelativeToolTip": "Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:15:12.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:15:12.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Entity\\Comment.cs",
               "RelativeDocumentMoniker": "Entity\\Comment.cs",
@@ -164,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Entity\\Tag.cs",
               "RelativeDocumentMoniker": "Entity\\Tag.cs",
@@ -184,13 +166,12 @@
               "RelativeToolTip": "Entity\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T00:02:29.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T00:02:29.699Z"
             }
           ]
         },
         {
-          "DockedHeight": 220,
+          "DockedHeight": 193,
           "SelectedChildIndex": -1,
           "Children": [
             {
