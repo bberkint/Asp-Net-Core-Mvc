@@ -1,0 +1,16 @@
+﻿@using BlogApp.Entity
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    Posts List
+
+    @foreach (var post in Model )
+    {
+        <p>@post.Title</p>
+    }
+
+</body>
+</html>
