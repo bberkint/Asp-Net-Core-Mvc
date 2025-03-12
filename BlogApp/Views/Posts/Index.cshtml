@@ -1,5 +1,4 @@
-﻿
-@model List<Post>
+﻿@model List<Post>
 
 <div class="row">
     <div class="col-lg-8">
@@ -13,9 +12,22 @@
                         <div class="col-4">
                             <img src="~/img/@post.Image" class="img-fluid rounded" alt="Alternate Text" />
                         </div>
+                        <div class="col-8">
+                            <h5><a href="#" class="btn-link fw-bold">@post.Title</a></h5>
+                            <p>@post.Content</p>
+                            <a href="#" class="badge bg-danger bg-opacity-10 text-danger mb-2 fw-bold">Web Development</a>
+                        </div>
                     </div>
                 </div>
+                <hr class="my-3">
             }
+            <nav>
+                <ul class="pagination">
+                    <li class="page-item"><a href="#" class="page-link">1</a></li>
+                    <li class="page-item"><a href="#" class="page-link">2</a></li>
+                    <li class="page-item"><a href="#" class="page-link">3</a></li>
+                </ul>
+            </nav>
 
         </div>
     </div>
