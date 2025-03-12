@@ -1,8 +1,26 @@
-﻿@using BlogApp.Entity
+﻿
+@model List<Post>
 
+<div class="row">
+    <div class="col-lg-8">
+        <div class="bg-white p-4">
+            <h1 class="h4 mb-4">Popular Posts</h1>
 
-@foreach (var post in Model)
-{
-    <p>@post.Title</p>
-}
+            @foreach (var post in Model)
+            {
+                <div class="card bg-transparent border-0 mb-3">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="~/img/@post.Image" class="img-fluid rounded" alt="Alternate Text" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+    <div class="col-lg-4">
+    </div>
+</div>
+
 

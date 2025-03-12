@@ -1,3 +1,4 @@
+wwwroot\css\style.css
 wwwroot\img\1.jpg
 wwwroot\img\2.jpg
 wwwroot\img\3.jpg
