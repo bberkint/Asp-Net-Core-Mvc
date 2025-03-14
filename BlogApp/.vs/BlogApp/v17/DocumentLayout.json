@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\components\\tagsmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\components\\tagsmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\viewcomponents\\tagsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\components\\tagsmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\components\\tagsmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,7 +60,7 @@
         },
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -77,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "RelativeToolTip": "Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-12T23:06:37.721Z",
               "EditorCaption": ""
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
               "RelativeToolTip": "Views\\Posts\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-12T22:15:44.945Z",
               "EditorCaption": ""
@@ -124,8 +124,7 @@
               "RelativeToolTip": "Models\\PostsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:14:31.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T22:14:31.071Z"
             },
             {
               "$type": "Document",
@@ -137,8 +136,7 @@
               "RelativeToolTip": "Controllers\\PostsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:11:29.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T22:11:29.421Z"
             },
             {
               "$type": "Document",
