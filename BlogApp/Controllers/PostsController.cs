@@ -2,6 +2,7 @@
 using BlogApp.Data.Concrete.EfCore;
 using BlogApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlogApp.Controllers
 {
@@ -25,6 +26,17 @@ namespace BlogApp.Controllers
                     Posts = _postRepository.Posts.ToList(),
                 });
             ;
+        }
+
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            var post = await _postRepository.Posts.FirstOrDefaultAsync(p => p.PostId == id);
+            if (post == null)
+            {
+                return NotFound();
+            }
+            return View(post);
         }
     }
 }
