@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BlogContext>(options =>
 {
     var config = builder.Configuration;
-    var connectionString =  config.GetConnectionString("sql_connection");
+    var connectionString = config.GetConnectionString("sql_connection");
 
     options.UseSqlite(connectionString);
 });
@@ -23,6 +23,17 @@ app.UseStaticFiles();
 
 SeedData.TestVerileriniDoldur(app);
 
-app.MapDefaultControllerRoute();
+
+app.MapControllerRoute(
+    name: "post_details",
+    pattern: "posts/{url}",
+    defaults: new { controller = "Posts", action = "Details" }
+    
+);
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}"
+);
 
 app.Run();
