@@ -67,7 +67,7 @@ namespace BlogApp.Data.Concrete.EfCore
                         {
                             Title = "Django",
                             Content = "Django Dersleri",
-                            Url = "asp-net-core",
+                            Url = "django",
                             IsActive = true,
                             PublishedOn = DateTime.Now.AddDays(-30),
                             Tags = context.Tags.Take(4).ToList(),
