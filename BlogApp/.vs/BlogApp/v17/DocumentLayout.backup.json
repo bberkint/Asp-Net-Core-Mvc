@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\components\\tagsmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -52,7 +52,7 @@
         },
         {
           "DockedHeight": 390,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,31 +68,29 @@
               "RelativeToolTip": "Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T20:08:16.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:08:16.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Index.cshtml",
               "RelativeToolTip": "Views\\Posts\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T19:49:35.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:49:35.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
-              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs*",
+              "RelativeToolTip": "Controllers\\PostsController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:48:31.826Z",
               "EditorCaption": ""
@@ -107,8 +105,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:43:33.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:43:33.061Z"
             },
             {
               "$type": "Document",

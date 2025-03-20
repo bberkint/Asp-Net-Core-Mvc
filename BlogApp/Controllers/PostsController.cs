@@ -9,25 +9,23 @@ namespace BlogApp.Controllers
     public class PostsController : Controller
     {
 
-        private IPostRepository _postRepository;
-        private ITagRepository _tagRepository;
+        private readonly IPostRepository _postRepository;
 
-        public PostsController(IPostRepository postRepository, ITagRepository tagRepository)
+        public PostsController(IPostRepository postRepository)
         {
             _postRepository = postRepository;
-            _tagRepository = tagRepository;
         }
 
-        public async Task<IActionResult> Index(string tag)
+        public async Task<IActionResult> Index()
         {
-            var posts = _postRepository.Posts;
+            return View(
 
-            if (string.IsNullOrEmpty(tag))
-            {
-                posts = posts.Where(x => x.Tags.Any(t => t.Url == tag));
-            }
+                new PostsViewModel
+                {
+                    Posts = await _postRepository.Posts.ToListAsync()
+                }
 
-            return View(new PostsViewModel { Posts = await posts.ToListAsync() });
+                );
 
         }
 
