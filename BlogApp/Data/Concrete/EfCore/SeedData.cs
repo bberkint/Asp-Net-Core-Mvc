@@ -20,11 +20,11 @@ namespace BlogApp.Data.Concrete.EfCore
                 if (!context.Tags.Any())
                 {
                     context.Tags.AddRange(
-                        new Entity.Tag { Text = "web programlama" , Url = "web-programlama"},
-                        new Entity.Tag { Text = "backend", Url = "backend" },
-                        new Entity.Tag { Text = "frontend", Url = "frontend" },
-                        new Entity.Tag { Text = "fullstack", Url = "fullstack" },
-                        new Entity.Tag { Text = "php", Url = "php" }
+                        new Entity.Tag { Text = "web programlama" , Url = "web-programlama", Color = TagColors.info},
+                        new Entity.Tag { Text = "backend", Url = "backend", Color = TagColors.secondary },
+                        new Entity.Tag { Text = "frontend", Url = "frontend", Color = TagColors.danger },
+                        new Entity.Tag { Text = "fullstack", Url = "fullstack", Color = TagColors.success },
+                        new Entity.Tag { Text = "php", Url = "php", Color = TagColors.warning }
                     );
                     context.SaveChanges();
                 }
