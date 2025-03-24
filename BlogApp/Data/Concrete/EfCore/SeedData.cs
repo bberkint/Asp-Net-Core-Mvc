@@ -20,7 +20,7 @@ namespace BlogApp.Data.Concrete.EfCore
                 if (!context.Tags.Any())
                 {
                     context.Tags.AddRange(
-                        new Entity.Tag { Text = "web programlama" , Url = "web-programlama", Color = TagColors.info},
+                        new Entity.Tag { Text = "web programlama", Url = "web-programlama", Color = TagColors.info },
                         new Entity.Tag { Text = "backend", Url = "backend", Color = TagColors.secondary },
                         new Entity.Tag { Text = "frontend", Url = "frontend", Color = TagColors.danger },
                         new Entity.Tag { Text = "fullstack", Url = "fullstack", Color = TagColors.success },
@@ -32,8 +32,8 @@ namespace BlogApp.Data.Concrete.EfCore
                 if (!context.Users.Any())
                 {
                     context.Users.AddRange(
-                        new User { UserName = "berkintopaloglu" },
-                        new User { UserName = "sinemeraslan" }
+                        new User { UserName = "berkintopaloglu", Image = "p1.jpg" },
+                        new User { UserName = "sinemeraslan", Image = "p2.jpg" }
                     );
                     context.SaveChanges();
                 }
@@ -50,7 +50,10 @@ namespace BlogApp.Data.Concrete.EfCore
                             PublishedOn = DateTime.Now.AddDays(-10),
                             Tags = context.Tags.Take(3).ToList(),
                             Image = "1.jpg",
-                            UserId = 1
+                            UserId = 1,
+                            Comments = new List<Comment> { new Comment { Text = "iyi bir kurs", PublishedOn = new DateTime(), UserId = 1 },
+                                       new Comment { Text = "çok faydalandığım bir kurs", PublishedOn = new DateTime(), UserId = 2 },
+                            }
                         },
                         new Post
                         {
@@ -108,7 +111,7 @@ namespace BlogApp.Data.Concrete.EfCore
                             UserId = 2
                         }
                     );
-                    context.SaveChanges();  
+                    context.SaveChanges();
                 }
             }
         }

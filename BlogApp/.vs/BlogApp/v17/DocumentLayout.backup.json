@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\balak\\AppData\\Local\\SourceServer\\01771357fc6e4f0d15b940192f30cfb7560f5cc68c2011d4e3636dc4aec160ea\\BlogApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\components\\newposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\components\\newposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,21 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\entity\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:entity\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\balak\\AppData\\Local\\SourceServer\\296d91b85c5765928157ee4c975fdbb224c6fdf14be88f22943363f317448f16\\BlogApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\components\\newposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\components\\newposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F3273-0CA3-432A-8CDE-105C7E51BEBA}|BlogApp.csproj|c:\\c#.net_codes\\udemy-course\\mvc\\asp-net-core-mvc\\blogapp\\data\\concrete\\efcore\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,7 +63,7 @@
         },
         {
           "DockedHeight": 390,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,19 +71,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balak\\AppData\\Local\\SourceServer\\01771357fc6e4f0d15b940192f30cfb7560f5cc68c2011d4e3636dc4aec160ea\\BlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\balak\\AppData\\Local\\SourceServer\\01771357fc6e4f0d15b940192f30cfb7560f5cc68c2011d4e3636dc4aec160ea\\BlogApp\\Program.cs",
+              "ToolTip": "C:\\Users\\balak\\AppData\\Local\\SourceServer\\01771357fc6e4f0d15b940192f30cfb7560f5cc68c2011d4e3636dc4aec160ea\\BlogApp\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\balak\\AppData\\Local\\SourceServer\\01771357fc6e4f0d15b940192f30cfb7560f5cc68c2011d4e3636dc4aec160ea\\BlogApp\\Program.cs [Read Only]",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwCYAAAAXAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:30:52.963Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T00:20:10.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\Components\\NewPosts\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\NewPosts\\Default.cshtml",
@@ -95,44 +108,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\balak\\AppData\\Local\\SourceServer\\296d91b85c5765928157ee4c975fdbb224c6fdf14be88f22943363f317448f16\\BlogApp\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\balak\\AppData\\Local\\SourceServer\\296d91b85c5765928157ee4c975fdbb224c6fdf14be88f22943363f317448f16\\BlogApp\\Program.cs",
-              "ToolTip": "C:\\Users\\balak\\AppData\\Local\\SourceServer\\296d91b85c5765928157ee4c975fdbb224c6fdf14be88f22943363f317448f16\\BlogApp\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\balak\\AppData\\Local\\SourceServer\\296d91b85c5765928157ee4c975fdbb224c6fdf14be88f22943363f317448f16\\BlogApp\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T00:14:52.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Posts\\Details.cshtml",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Posts\\Details.cshtml",
               "RelativeToolTip": "Views\\Posts\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T00:07:22.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\SeedData.cs",
               "RelativeDocumentMoniker": "Data\\Concrete\\EfCore\\SeedData.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Data\\Concrete\\EfCore\\SeedData.cs",
               "RelativeToolTip": "Data\\Concrete\\EfCore\\SeedData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T00:03:56.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Entity\\Tag.cs",
               "RelativeDocumentMoniker": "Entity\\Tag.cs",
@@ -144,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
@@ -156,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
@@ -168,13 +169,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\C#.NET_codes\\udemy-course\\mvc\\Asp-Net-Core-Mvc\\BlogApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:43:33.061Z",
               "EditorCaption": ""
