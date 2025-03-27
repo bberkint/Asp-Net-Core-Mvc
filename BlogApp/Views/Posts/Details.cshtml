@@ -14,6 +14,11 @@
             <img src="~/img/@Model.Image" class="img-fluid rounded" alt="Alternate Text" />
             <div>@Model.Content</div>
         </div> 
+        <div class="bg-white mt-3">
+            <div class="card-header pb-0">
+                <h4>@Model.Comments.Count() adet yorum.</h4>
+            </div>
+        </div>
     </div>
     <div class="col-lg-4">
         <vc:tags-menu></vc:tags-menu>
