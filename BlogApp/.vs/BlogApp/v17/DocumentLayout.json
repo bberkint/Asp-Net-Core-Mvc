@@ -87,8 +87,7 @@
               "RelativeToolTip": "Entity\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:29:38.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:29:38.585Z"
             },
             {
               "$type": "Document",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T00:20:10.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T00:20:10.202Z"
             },
             {
               "$type": "Document",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "Views\\Shared\\Components\\NewPosts\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T00:18:15.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T00:18:15.522Z"
             },
             {
               "$type": "Document",
@@ -152,8 +149,7 @@
               "RelativeToolTip": "Data\\Concrete\\EfCore\\SeedData.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T00:03:56.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T00:03:56.994Z"
             },
             {
               "$type": "Document",
@@ -177,8 +173,7 @@
               "RelativeToolTip": "Views\\Shared\\Components\\TagsMenu\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T20:08:16.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:08:16.446Z"
             },
             {
               "$type": "Document",
@@ -190,8 +185,7 @@
               "RelativeToolTip": "Controllers\\PostsController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:48:31.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:48:31.826Z"
             },
             {
               "$type": "Document",
