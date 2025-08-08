@@ -3,18 +3,18 @@ using BlogApp.Entity;
 
 namespace BlogApp.Data.Concrete.EfCore
 {
-    public class EfPostRepository : IPostRepository
+    public class EfTagRepository : ITagRepository
     {
-        private BlogContext _context;
-        public EfPostRepository(BlogContext context)
+        private readonly BlogContext _context;
+        public EfTagRepository(BlogContext context)
         {
             _context = context;
         }   
-        public IQueryable<Post> Posts => _context.Posts;    
+        public IQueryable<Tag> Tags => _context.Tags;    
 
-        public void CreatePost(Post post)
+        public void CreateTag(Tag Tag)
         {
-           _context.Posts.Add(post);
+           _context.Tags.Add(Tag);
             _context.SaveChanges();
         }
     }

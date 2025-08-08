@@ -7,7 +7,7 @@ namespace BlogApp.ViewComponents
     public class TagsMenu : ViewComponent
     {
         private ITagRepository _tagRepository;
-        public TagsMenu(ITagRepository tagRepository)
+        public TagsMenu(ITagRepository tagRepository) 
         {
             _tagRepository = tagRepository;
         }
@@ -18,3 +18,4 @@ namespace BlogApp.ViewComponents
         }
     }
 }
+ 

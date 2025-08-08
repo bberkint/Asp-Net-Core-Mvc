@@ -17,6 +17,7 @@ namespace BlogApp.Data.Concrete.EfCore
                     context.Database.Migrate();
                 }
 
+
                 if (!context.Tags.Any())
                 {
                     context.Tags.AddRange(
@@ -84,7 +85,7 @@ namespace BlogApp.Data.Concrete.EfCore
                             Url = "react-dersleri",
                             IsActive = true,
                             PublishedOn = DateTime.Now.AddDays(-40),
-                            Tags = context.Tags.Take(4).ToList(),
+                            Tags = context.Tags.Take(5).ToList(),
                             Image = "3.jpg",
                             UserId = 2
                         },
@@ -95,7 +96,7 @@ namespace BlogApp.Data.Concrete.EfCore
                             Url = "angular",
                             IsActive = true,
                             PublishedOn = DateTime.Now.AddDays(-50),
-                            Tags = context.Tags.Take(4).ToList(),
+                            Tags = context.Tags.Take(6).ToList(),
                             Image = "3.jpg",
                             UserId = 2
                         },
@@ -106,7 +107,7 @@ namespace BlogApp.Data.Concrete.EfCore
                             Url = "web-tasarim",
                             IsActive = true,
                             PublishedOn = DateTime.Now.AddDays(-60),
-                            Tags = context.Tags.Take(4).ToList(),
+                            Tags = context.Tags.Take(3).ToList(),
                             Image = "3.jpg",
                             UserId = 2
                         }

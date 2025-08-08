@@ -1,4 +1,4 @@
-﻿using BlogApp.Entity;
+﻿ using BlogApp.Entity;
 
 namespace BlogApp.Data.Abstraction
 {

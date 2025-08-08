@@ -16,12 +16,6 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\scope
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.build.json
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.development.json
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.BlogApp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.BlogApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlogApp.props
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlogApp.props
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlogApp.props
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.pack.json
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\BlogApp.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\refint\BlogApp.dll
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\BlogApp.pdb
@@ -71,4 +65,8 @@ C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\libma
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\BlogApp.staticwebassets.runtime.json
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\package-lock.json
 C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\bin\Debug\net7.0\package.json
-C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\C#.NET_codes\udemy-course\mvc\Asp-Net-Core-Mvc\BlogApp\obj\Debug\net7.0\staticwebassets.build.json.cache
